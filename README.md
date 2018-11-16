@@ -1,3 +1,3 @@
 # livy-client-test
 
-Scala Livy 
+Scala Livy API Usage
